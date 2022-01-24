@@ -11,19 +11,14 @@ metadata:
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: test1
+  name: staging1
 ---
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: test2
+  name: staging2
 ---
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: test3
----
-kind: Namespace
-apiVersion: v1
-metadata:
-  name: test5
+  name: staging3
