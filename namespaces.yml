@@ -22,3 +22,8 @@ kind: Namespace
 apiVersion: v1
 metadata:
   name: staging3
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: staging4
